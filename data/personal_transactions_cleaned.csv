@@ -1,0 +1,648 @@
+Date,Description,Amount,Transaction Type,Category,Account Name,Category_encoded
+2018-01-01,Amazon,2.4078456036515385,debit,Shopping,Platinum Card,17
+2018-01-02,Thai Restaurant,3.1871787381249463,debit,Restaurants,Silver Card,16
+2018-01-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-01-05,American Tavern,3.2523106009544382,debit,Restaurants,Silver Card,16
+2018-01-06,Hardware Store,2.915064370486536,debit,Home Improvement,Silver Card,11
+2018-01-08,Gas Company,3.8066624897703196,debit,Utilities,Checking,19
+2018-01-08,Hardware Store,2.733067964077498,debit,Home Improvement,Silver Card,11
+2018-01-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-01-10,Phone Company,4.493791598004702,debit,Mobile Phone,Checking,13
+2018-01-11,Shell,3.5516268606875596,debit,Gas & Fuel,Platinum Card,8
+2018-01-11,Grocery Store,3.7736800558064014,debit,Groceries,Platinum Card,9
+2018-01-13,Pizza Place,3.4937765629552486,debit,Fast Food,Platinum Card,6
+2018-01-13,Amazon,3.664842876285695,debit,Shopping,Platinum Card,17
+2018-01-15,Grocery Store,3.7884985191426486,debit,Groceries,Silver Card,9
+2018-01-15,American Tavern,4.160600357999166,debit,Restaurants,Silver Card,16
+2018-01-16,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-01-16,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-01-20,Amazon,3.916214210046614,debit,Shopping,Platinum Card,17
+2018-01-22,Hardware Store,2.8553201198372458,debit,Home Improvement,Silver Card,11
+2018-01-24,Starbucks,1.0986122886681098,debit,Coffee Shops,Platinum Card,2
+2018-01-25,Internet Service Provider,4.248352374701448,debit,Internet,Checking,12
+2018-01-29,Shell,3.4151002868311466,debit,Gas & Fuel,Silver Card,8
+2018-01-29,Thai Restaurant,3.2188758248682006,debit,Restaurants,Silver Card,16
+2018-01-29,Brunch Restaurant,2.8690346205080335,debit,Restaurants,Platinum Card,16
+2018-02-01,Grocery Store,3.3246762437544124,debit,Groceries,Platinum Card,9
+2018-02-01,Amazon,2.4078456036515385,debit,Shopping,Platinum Card,17
+2018-02-03,Japanese Restaurant,4.043402083484526,debit,Restaurants,Platinum Card,16
+2018-02-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-02-05,Credit Card Payment,4.97769879384999,credit,Credit Card Payment,Platinum Card,3
+2018-02-06,Credit Card Payment,5.037796402158628,credit,Credit Card Payment,Silver Card,3
+2018-02-07,Credit Card Payment,5.037796402158628,debit,Credit Card Payment,Checking,3
+2018-02-07,Gas Company,4.174387269895637,debit,Utilities,Checking,19
+2018-02-09,Barbershop,3.4011973816621555,debit,Haircut,Platinum Card,10
+2018-02-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-02-10,Bojangles,2.3664984187376983,debit,Fast Food,Platinum Card,6
+2018-02-11,Fancy Restaurant,4.6709579265260945,debit,Restaurants,Platinum Card,16
+2018-02-12,Shell,3.596490004820589,debit,Gas & Fuel,Silver Card,8
+2018-02-12,Phone Company,4.494462064003669,debit,Mobile Phone,Checking,13
+2018-02-14,Brewing Company,2.6390573296152584,debit,Alcohol & Bars,Silver Card,0
+2018-02-15,American Tavern,2.302585092994046,debit,Restaurants,Platinum Card,16
+2018-02-15,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-02-16,Brunch Restaurant,2.0794415416798357,debit,Restaurants,Silver Card,16
+2018-02-16,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-02-20,Grocery Store,3.5821290841670557,debit,Groceries,Silver Card,9
+2018-02-20,Mexican Restaurant,3.157425862551978,debit,Restaurants,Silver Card,16
+2018-02-21,Starbucks,0.6931471805599453,debit,Coffee Shops,Platinum Card,2
+2018-02-22,Starbucks,1.3862943611198906,debit,Coffee Shops,Silver Card,2
+2018-02-26,Credit Card Payment,5.050560886968575,credit,Credit Card Payment,Silver Card,3
+2018-02-26,Internet Service Provider,4.317354771313298,debit,Internet,Checking,12
+2018-02-26,American Tavern,4.4487502667167895,debit,Restaurants,Silver Card,16
+2018-02-26,Gas Station,3.4722769633431074,debit,Gas & Fuel,Silver Card,8
+2018-02-27,Credit Card Payment,5.050560886968575,debit,Credit Card Payment,Checking,3
+2018-03-01,Grocery Store,3.4679210137050633,debit,Groceries,Silver Card,9
+2018-03-01,Amazon,2.574899688314705,debit,Shopping,Platinum Card,17
+2018-03-03,Grocery Store,3.167161389181522,debit,Groceries,Silver Card,9
+2018-03-04,Grocery Store,2.3693087250369538,debit,Groceries,Platinum Card,9
+2018-03-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-03-04,BBQ Restaurant,3.743367639398006,debit,Restaurants,Platinum Card,16
+2018-03-05,Starbucks,1.0986122886681098,debit,Coffee Shops,Platinum Card,2
+2018-03-07,Starbucks,1.252762968495368,debit,Coffee Shops,Platinum Card,2
+2018-03-08,BP,3.5524868292083815,debit,Gas & Fuel,Platinum Card,8
+2018-03-08,Gas Company,3.9512437185814275,debit,Utilities,Checking,19
+2018-03-09,Grocery Store,3.031099417391282,debit,Groceries,Platinum Card,9
+2018-03-09,Grocery Store,1.6272778305624314,debit,Groceries,Platinum Card,9
+2018-03-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-03-12,Grocery Store,2.962692419475791,debit,Groceries,Platinum Card,9
+2018-03-12,Phone Company,4.494462064003669,debit,Mobile Phone,Checking,13
+2018-03-13,Amazon,3.82319179172153,debit,Shopping,Platinum Card,17
+2018-03-14,Grocery Store,3.1135153092103742,debit,Groceries,Platinum Card,9
+2018-03-14,Brunch Restaurant,2.138889000323256,debit,Restaurants,Platinum Card,16
+2018-03-15,Starbucks,1.252762968495368,debit,Coffee Shops,Platinum Card,2
+2018-03-15,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-03-17,Brewing Company,2.970414465569701,debit,Alcohol & Bars,Silver Card,0
+2018-03-17,Pizza Place,3.15016862685841,debit,Fast Food,Platinum Card,6
+2018-03-19,Mediterranean Restaurant,3.5967641652061304,debit,Restaurants,Silver Card,16
+2018-03-19,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-03-20,Amazon,2.706048198431537,debit,Shopping,Platinum Card,17
+2018-03-22,BP,3.4193646856176043,debit,Gas & Fuel,Silver Card,8
+2018-03-23,Grocery Store,2.464703942470481,debit,Groceries,Silver Card,9
+2018-03-26,Internet Service Provider,4.317354771313298,debit,Internet,Checking,12
+2018-03-28,Grocery Store,2.7763317085186157,debit,Groceries,Silver Card,9
+2018-03-28,Pizza Place,3.2180755046974316,debit,Restaurants,Silver Card,16
+2018-03-29,Steakhouse,2.8701690505786455,debit,Restaurants,Silver Card,16
+2018-03-30,Grocery Store,2.2071749081893874,debit,Groceries,Silver Card,9
+2018-03-31,Belgian Restaurant,3.6459719531026598,debit,Restaurants,Platinum Card,16
+2018-03-31,Chili's,3.208421366964342,debit,Restaurants,Platinum Card,16
+2018-03-31,Greek Restaurant,3.717466910965849,debit,Restaurants,Silver Card,16
+2018-04-01,Grocery Store,4.391853195491617,debit,Groceries,Platinum Card,9
+2018-04-01,Brewing Company,4.085640121591954,debit,Restaurants,Platinum Card,16
+2018-04-01,Amazon,2.574899688314705,debit,Shopping,Platinum Card,17
+2018-04-02,Grocery Store,4.411099882159589,debit,Groceries,Platinum Card,9
+2018-04-02,Hardware Store,2.6311691567662523,debit,Home Improvement,Platinum Card,11
+2018-04-03,Amazon Video,1.8578592709325787,debit,Movies & DVDs,Platinum Card,14
+2018-04-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-04-06,Chevron,1.5216989981260935,debit,Gas & Fuel,Platinum Card,8
+2018-04-06,Tiny Deli,2.278292400425001,debit,Restaurants,Platinum Card,16
+2018-04-08,Irish Pub,3.091042453358316,debit,Restaurants,Platinum Card,16
+2018-04-09,Blue Sky Market,1.8687205103641833,debit,Groceries,Silver Card,9
+2018-04-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-04-09,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2018-04-11,Phone Company,4.494462064003669,debit,Mobile Phone,Checking,13
+2018-04-12,Starbucks,1.9459101490553132,debit,Coffee Shops,Platinum Card,2
+2018-04-12,Barbershop,3.4011973816621555,debit,Haircut,Platinum Card,10
+2018-04-13,BP,3.63705970538414,debit,Gas & Fuel,Platinum Card,8
+2018-04-13,American Tavern,2.3664984187376983,debit,Restaurants,Platinum Card,16
+2018-04-14,Hardware Store,2.4518667957098,debit,Home Improvement,Platinum Card,11
+2018-04-14,American Tavern,3.713572066704308,debit,Restaurants,Platinum Card,16
+2018-04-16,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2018-04-16,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-04-18,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-04-20,Thai Restaurant,3.1871787381249463,debit,Restaurants,Silver Card,16
+2018-04-21,Grocery Store,1.463255402256019,debit,Groceries,Silver Card,9
+2018-04-21,American Tavern,3.5596246182566738,debit,Restaurants,Silver Card,16
+2018-04-22,Grocery Store,3.0596455992976437,debit,Groceries,Platinum Card,9
+2018-04-23,Hardware Store,3.754198920234579,debit,Home Improvement,Silver Card,11
+2018-04-24,Hardware Store,5.414766179191283,debit,Home Improvement,Platinum Card,11
+2018-04-24,Amazon,3.7218305542536223,debit,Shopping,Platinum Card,17
+2018-04-25,Hardware Store,5.350862377211803,debit,Home Improvement,Silver Card,11
+2018-04-25,Internet Service Provider,4.317354771313298,debit,Internet,Checking,12
+2018-04-28,Grocery Store,3.1346242724206097,debit,Groceries,Silver Card,9
+2018-04-29,QuikTrip,3.6635616461296463,debit,Gas & Fuel,Platinum Card,8
+2018-04-29,Grocery Store,3.9328055446106744,debit,Groceries,Platinum Card,9
+2018-04-29,Hardware Store,4.226395693132972,debit,Home Improvement,Platinum Card,11
+2018-04-30,Grocery Store,1.6272778305624314,debit,Groceries,Platinum Card,9
+2018-05-01,Amazon,2.574899688314705,debit,Shopping,Platinum Card,17
+2018-05-03,Amazon,3.9064072666425105,debit,Shopping,Platinum Card,17
+2018-05-04,Grocery Store,3.743130868945852,debit,Groceries,Platinum Card,9
+2018-05-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-05-05,Bojangles,1.9837562915454279,debit,Fast Food,Platinum Card,6
+2018-05-05,Pizza Place,3.021400020302569,debit,Fast Food,Platinum Card,6
+2018-05-06,Hardware Store,3.107720775502038,debit,Home Improvement,Platinum Card,11
+2018-05-06,Amazon,4.768054048889571,debit,Shopping,Platinum Card,17
+2018-05-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-05-09,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2018-05-10,Phone Company,4.711150509525323,debit,Mobile Phone,Checking,13
+2018-05-11,Grocery Store,4.048649602959971,debit,Groceries,Platinum Card,9
+2018-05-12,Liquor Store,3.323956301318708,debit,Alcohol & Bars,Platinum Card,0
+2018-05-12,Shell,3.505557396986398,debit,Gas & Fuel,Platinum Card,8
+2018-05-12,Fancy Restaurant,4.356708826689592,debit,Restaurants,Platinum Card,16
+2018-05-14,Grocery Store,4.214051671586849,debit,Groceries,Silver Card,9
+2018-05-15,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-05-17,Barbershop,3.367295829986474,debit,Haircut,Silver Card,10
+2018-05-17,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-05-18,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2018-05-18,Amazon,1.8578592709325787,debit,Shopping,Platinum Card,17
+2018-05-19,Credit Card Payment,5.333105192033701,credit,Credit Card Payment,Platinum Card,3
+2018-05-19,Grocery Store,3.4339872044851463,debit,Groceries,Silver Card,9
+2018-05-19,Greek Restaurant,3.1467351470905185,debit,Restaurants,Silver Card,16
+2018-05-21,Thai Restaurant,3.2596338173403683,debit,Restaurants,Silver Card,16
+2018-05-21,Amazon,3.481240089335692,debit,Shopping,Platinum Card,17
+2018-05-24,BP,3.6747805297344347,debit,Gas & Fuel,Silver Card,8
+2018-05-25,Internet Service Provider,4.317354771313298,debit,Internet,Checking,12
+2018-05-28,Movie Theater,2.263844264677615,debit,Entertainment,Silver Card,5
+2018-05-28,Grocery Store,4.511189122517197,debit,Groceries,Silver Card,9
+2018-05-29,Movie Theater,2.995732273553991,debit,Movies & DVDs,Silver Card,14
+2018-05-29,Movie Theater,1.8325814637483102,debit,Movies & DVDs,Silver Card,14
+2018-06-01,BP,3.65402917667819,debit,Gas & Fuel,Platinum Card,8
+2018-06-01,Grocery Store,1.809926773183504,debit,Groceries,Platinum Card,9
+2018-06-01,Amazon,2.574899688314705,debit,Shopping,Platinum Card,17
+2018-06-02,Credit Card Payment,5.460351178395269,credit,Credit Card Payment,Silver Card,3
+2018-06-03,Italian Restaurant,4.186771802468027,debit,Restaurants,Platinum Card,16
+2018-06-04,Credit Card Payment,5.460351178395269,debit,Credit Card Payment,Checking,3
+2018-06-04,Grocery Store,3.1830413718589847,debit,Groceries,Platinum Card,9
+2018-06-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-06-06,Starbucks,1.3862943611198906,debit,Coffee Shops,Platinum Card,2
+2018-06-08,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2018-06-09,Chick-Fil-A,2.7837759116303458,debit,Fast Food,Platinum Card,6
+2018-06-09,Grocery Store,2.25758772706331,debit,Groceries,Platinum Card,9
+2018-06-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-06-10,Grocery Store,3.8288587641673772,debit,Groceries,Platinum Card,9
+2018-06-12,Grocery Store,2.529720665577793,debit,Groceries,Platinum Card,9
+2018-06-12,Phone Company,4.493791598004702,debit,Mobile Phone,Checking,13
+2018-06-14,Grocery Store,1.9487632180377197,debit,Groceries,Platinum Card,9
+2018-06-15,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-06-16,Starbucks,1.0986122886681098,debit,Coffee Shops,Platinum Card,2
+2018-06-16,Pizza Place,3.12060125559986,debit,Fast Food,Platinum Card,6
+2018-06-16,Grocery Store,2.631888840136646,debit,Groceries,Platinum Card,9
+2018-06-18,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-06-19,Shell,3.651177586929925,debit,Gas & Fuel,Platinum Card,8
+2018-06-19,Grocery Store,0.9895411936137477,debit,Groceries,Platinum Card,9
+2018-06-20,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2018-06-20,Credit Card Payment,4.493679809954728,credit,Credit Card Payment,Silver Card,3
+2018-06-20,Barbershop,3.4011973816621555,debit,Haircut,Silver Card,10
+2018-06-21,Credit Card Payment,4.493679809954728,debit,Credit Card Payment,Checking,3
+2018-06-23,Brunch Restaurant,2.1400661634962708,debit,Restaurants,Silver Card,16
+2018-06-23,Amazon,4.31708803351497,debit,Shopping,Platinum Card,17
+2018-06-25,Internet Service Provider,4.317354771313298,debit,Internet,Checking,12
+2018-06-26,Grocery Store,2.263844264677615,debit,Groceries,Silver Card,9
+2018-06-27,Starbucks,1.252762968495368,debit,Coffee Shops,Silver Card,2
+2018-06-27,Pizza Place,3.12060125559986,debit,Fast Food,Platinum Card,6
+2018-06-28,Grocery Store,2.0241930674493576,debit,Groceries,Silver Card,9
+2018-07-01,Amazon,2.574899688314705,debit,Shopping,Platinum Card,17
+2018-07-02,Movie Theater,3.2188758248682006,debit,Movies & DVDs,Silver Card,14
+2018-07-02,American Tavern,3.5956670723917576,debit,Restaurants,Silver Card,16
+2018-07-04,BP,3.5403794457954922,debit,Gas & Fuel,Silver Card,8
+2018-07-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-07-05,Grocery Store,3.7898553714539385,debit,Groceries,Silver Card,9
+2018-07-05,Amazon,5.358094570583897,debit,Shopping,Platinum Card,17
+2018-07-06,Amazon Video,1.8578592709325787,debit,Movies & DVDs,Platinum Card,14
+2018-07-08,Credit Card Payment,5.560181505973845,credit,Credit Card Payment,Platinum Card,3
+2018-07-09,Credit Card Payment,5.489598664713463,credit,Credit Card Payment,Silver Card,3
+2018-07-09,Credit Card Payment,5.560181505973845,debit,Credit Card Payment,Checking,3
+2018-07-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-07-10,Credit Card Payment,5.489598664713463,debit,Credit Card Payment,Checking,3
+2018-07-10,Grocery Store,1.6845453849209058,debit,Groceries,Silver Card,9
+2018-07-10,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2018-07-11,Phone Company,4.493791598004702,debit,Mobile Phone,Checking,13
+2018-07-14,Go Mart,3.511843901749219,debit,Gas & Fuel,Silver Card,8
+2018-07-15,Circle K,3.5901634811747787,debit,Gas & Fuel,Platinum Card,8
+2018-07-17,Wendy's,2.7232671669070703,debit,Fast Food,Silver Card,6
+2018-07-17,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-07-17,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-07-18,Irish Restaurant,3.3513066120486905,debit,Alcohol & Bars,Platinum Card,0
+2018-07-18,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2018-07-20,Credit Card Payment,4.117898315175836,credit,Credit Card Payment,Silver Card,3
+2018-07-20,Credit Card Payment,4.633563260489309,credit,Credit Card Payment,Platinum Card,3
+2018-07-20,Credit Card Payment,4.633563260489309,debit,Credit Card Payment,Checking,3
+2018-07-21,Grocery Store,3.3648791189880436,debit,Groceries,Platinum Card,9
+2018-07-21,Barbershop,3.4011973816621555,debit,Haircut,Platinum Card,10
+2018-07-23,Credit Card Payment,4.117898315175836,debit,Credit Card Payment,Checking,3
+2018-07-23,Starbucks,2.259677591982769,debit,Fast Food,Platinum Card,6
+2018-07-24,American Tavern,3.2805352052549286,debit,Restaurants,Platinum Card,16
+2018-07-25,Internet Service Provider,4.317354771313298,debit,Internet,Checking,12
+2018-07-26,Conoco,3.516607233172983,debit,Gas & Fuel,Silver Card,8
+2018-07-28,Grocery Store,2.0294631718735947,debit,Groceries,Silver Card,9
+2018-07-30,American Tavern,3.5374749999547035,debit,Restaurants,Silver Card,16
+2018-07-31,Brewing Company,1.8870696490323797,debit,Alcohol & Bars,Silver Card,0
+2018-08-01,Amazon,2.574899688314705,debit,Shopping,Platinum Card,17
+2018-08-02,Shell,3.6998193941522706,debit,Gas & Fuel,Silver Card,8
+2018-08-03,Grocery Store,1.8357763546448294,debit,Groceries,Silver Card,9
+2018-08-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-08-06,Amazon,4.336898507056134,debit,Shopping,Platinum Card,17
+2018-08-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-08-09,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2018-08-10,Phone Company,4.493120682179469,debit,Mobile Phone,Checking,13
+2018-08-11,Chick-Fil-A,2.6152036507358583,debit,Fast Food,Platinum Card,6
+2018-08-11,Valero,3.51631018876266,debit,Gas & Fuel,Platinum Card,8
+2018-08-15,Credit Card Payment,5.596791000078016,credit,Credit Card Payment,Silver Card,3
+2018-08-15,Credit Card Payment,5.071291287969602,credit,Credit Card Payment,Platinum Card,3
+2018-08-15,Shell,3.7152779279684673,debit,Gas & Fuel,Platinum Card,8
+2018-08-15,Grocery Store,1.7298840655099674,debit,Groceries,Platinum Card,9
+2018-08-15,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-08-16,Credit Card Payment,5.596791000078016,debit,Credit Card Payment,Checking,3
+2018-08-16,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-08-17,Amazon,2.7067159780890733,debit,Shopping,Platinum Card,17
+2018-08-18,Amazon,3.1557230098629323,debit,Shopping,Platinum Card,17
+2018-08-20,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2018-08-21,Credit Card Payment,3.5316406776874447,credit,Credit Card Payment,Silver Card,3
+2018-08-21,Credit Card Payment,4.602767301371781,credit,Credit Card Payment,Platinum Card,3
+2018-08-21,Credit Card Payment,4.602767301371781,debit,Credit Card Payment,Checking,3
+2018-08-22,Credit Card Payment,3.5316406776874447,debit,Credit Card Payment,Checking,3
+2018-08-24,American Tavern,3.7450234647319762,debit,Restaurants,Platinum Card,16
+2018-08-27,Internet Service Provider,4.317354771313298,debit,Internet,Checking,12
+2018-08-30,Shell,3.573749146860305,debit,Gas & Fuel,Platinum Card,8
+2018-08-31,Grocery Store,2.454447442303292,debit,Groceries,Platinum Card,9
+2018-09-01,Brewing Company,3.858622228701031,debit,Alcohol & Bars,Platinum Card,0
+2018-09-01,Amazon,2.574899688314705,debit,Shopping,Platinum Card,17
+2018-09-02,Amazon,4.698933715800255,debit,Shopping,Platinum Card,17
+2018-09-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-09-07,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2018-09-09,Brewing Company,2.8903717578961645,debit,Alcohol & Bars,Platinum Card,0
+2018-09-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-09-11,BP,3.659965443949294,debit,Gas & Fuel,Platinum Card,8
+2018-09-11,Grocery Store,2.063058062429312,debit,Groceries,Platinum Card,9
+2018-09-12,Grocery Store,3.85354607566917,debit,Groceries,Platinum Card,9
+2018-09-12,Phone Company,4.493120682179469,debit,Mobile Phone,Checking,13
+2018-09-13,Grocery Store,1.7298840655099674,debit,Groceries,Platinum Card,9
+2018-09-14,Credit Card Payment,4.900373899838718,credit,Credit Card Payment,Platinum Card,3
+2018-09-17,Grocery Store,2.3194422100604686,debit,Groceries,Platinum Card,9
+2018-09-17,Grocery Store,2.174751721484161,debit,Groceries,Platinum Card,9
+2018-09-17,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-09-18,Grocery Store,1.463255402256019,debit,Groceries,Platinum Card,9
+2018-09-18,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-09-19,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2018-09-19,Barbershop,3.4011973816621555,debit,Haircut,Platinum Card,10
+2018-09-20,Amazon,3.8582001987306396,debit,Shopping,Platinum Card,17
+2018-09-22,Hardware Store,4.239886867512759,debit,Home Improvement,Platinum Card,11
+2018-09-22,Hardware Store,1.9213246735826988,debit,Home Improvement,Platinum Card,11
+2018-09-25,Internet Service Provider,4.317354771313298,debit,Internet,Checking,12
+2018-09-25,Sushi Restaurant,3.8844462376579116,debit,Restaurants,Silver Card,16
+2018-09-26,Starbucks,1.6094379124341003,debit,Coffee Shops,Platinum Card,2
+2018-09-26,Exxon,3.6375861597263857,debit,Gas & Fuel,Silver Card,8
+2018-09-27,Valero,3.7064737625148876,debit,Gas & Fuel,Platinum Card,8
+2018-09-28,Credit Card Payment,4.852967324740957,credit,Credit Card Payment,Silver Card,3
+2018-09-28,Grocery Store,2.5922651681085,debit,Groceries,Platinum Card,9
+2018-09-29,Greek Restaurant,3.1467351470905185,debit,Restaurants,Platinum Card,16
+2018-09-29,German Restaurant,3.8437441646748516,debit,Restaurants,Platinum Card,16
+2018-10-01,Starbucks,1.0986122886681098,debit,Coffee Shops,Platinum Card,2
+2018-10-01,Credit Card Payment,4.852967324740957,debit,Credit Card Payment,Checking,3
+2018-10-01,Grocery Store,2.751109690562657,debit,Groceries,Platinum Card,9
+2018-10-01,Amazon,2.574899688314705,debit,Shopping,Platinum Card,17
+2018-10-02,Credit Card Payment,4.820523471827238,credit,Credit Card Payment,Platinum Card,3
+2018-10-02,Credit Card Payment,4.820523471827238,debit,Credit Card Payment,Checking,3
+2018-10-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-10-06,American Tavern,3.295836866004329,debit,Restaurants,Silver Card,16
+2018-10-08,Shell,3.6391638618680036,debit,Gas & Fuel,Silver Card,8
+2018-10-08,Hardware Store,4.390118804571218,debit,Home Improvement,Silver Card,11
+2018-10-08,Hardware Store,3.4404180948154366,debit,Home Improvement,Silver Card,11
+2018-10-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-10-09,Amazon,2.9947317732204075,debit,Shopping,Platinum Card,17
+2018-10-09,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2018-10-10,Grocery Store,3.9830404926634264,debit,Groceries,Silver Card,9
+2018-10-11,Phone Company,4.493120682179469,debit,Mobile Phone,Checking,13
+2018-10-16,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-10-17,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-10-18,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2018-10-18,Grocery Store,3.5130368634176907,debit,Groceries,Platinum Card,9
+2018-10-18,Hardware Store,3.81198165124792,debit,Home Improvement,Platinum Card,11
+2018-10-18,Brunch Restaurant,2.0794415416798357,debit,Restaurants,Platinum Card,16
+2018-10-22,BP,3.54558628428746,debit,Gas & Fuel,Platinum Card,8
+2018-10-23,Grocery Store,2.0241930674493576,debit,Groceries,Platinum Card,9
+2018-10-25,Internet Service Provider,4.317354771313298,debit,Internet,Checking,12
+2018-10-25,Amazon,3.4005304926744517,debit,Shopping,Platinum Card,17
+2018-10-27,American Tavern,3.2347491740244907,debit,Restaurants,Silver Card,16
+2018-10-28,Brewing Company,2.542389085201363,debit,Alcohol & Bars,Platinum Card,0
+2018-10-28,Seafood Restaurant,2.691243082785829,debit,Food & Dining,Platinum Card,7
+2018-10-28,Grocery Store,4.527100530566169,debit,Groceries,Platinum Card,9
+2018-10-28,Italian Restaurant,3.9889840465642745,debit,Restaurants,Platinum Card,16
+2018-10-31,Grocery Store,1.7298840655099674,debit,Groceries,Platinum Card,9
+2018-11-01,Amazon,2.574899688314705,debit,Shopping,Platinum Card,17
+2018-11-02,Credit Card Payment,5.570289176544168,credit,Credit Card Payment,Platinum Card,3
+2018-11-02,Credit Card Payment,5.570289176544168,debit,Credit Card Payment,Checking,3
+2018-11-03,Pizza Place,3.1637858585502405,debit,Fast Food,Platinum Card,6
+2018-11-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-11-05,Shell,3.5975861956675455,debit,Gas & Fuel,Platinum Card,8
+2018-11-06,Amazon,3.9880576917041437,debit,Shopping,Platinum Card,17
+2018-11-06,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2018-11-08,Grocery Store,1.7298840655099674,debit,Groceries,Platinum Card,9
+2018-11-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-11-10,Brewing Company,3.295836866004329,debit,Alcohol & Bars,Platinum Card,0
+2018-11-10,Chick-Fil-A,2.6525374911719513,debit,Fast Food,Platinum Card,6
+2018-11-10,Food Truck,3.1945831322991562,debit,Groceries,Platinum Card,9
+2018-11-12,Grocery Store,2.3204250111223765,debit,Groceries,Platinum Card,9
+2018-11-12,American Tavern,3.1059310658520665,debit,Restaurants,Silver Card,16
+2018-11-13,Grocery Store,1.5686159179138452,debit,Groceries,Platinum Card,9
+2018-11-13,Grocery Store,3.6224725219163374,debit,Groceries,Platinum Card,9
+2018-11-13,Grocery Store,2.3174737054877963,debit,Groceries,Platinum Card,9
+2018-11-13,Phone Company,4.49468545281282,debit,Mobile Phone,Checking,13
+2018-11-14,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-11-16,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-11-17,Brewing Company,3.126760535960395,debit,Alcohol & Bars,Platinum Card,0
+2018-11-17,Hardware Store,2.738902664584975,debit,Home Improvement,Platinum Card,11
+2018-11-17,Hardware Store,1.8562979903656263,debit,Home Improvement,Platinum Card,11
+2018-11-17,Greek Restaurant,3.1467351470905185,debit,Restaurants,Platinum Card,16
+2018-11-19,Brewing Company,2.995732273553991,debit,Alcohol & Bars,Silver Card,0
+2018-11-19,QuikTrip,3.3724549127965013,debit,Gas & Fuel,Silver Card,8
+2018-11-19,Hardware Store,2.3045830956567186,debit,Home Improvement,Silver Card,11
+2018-11-20,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2018-11-21,Grocery Store,1.7298840655099674,debit,Groceries,Silver Card,9
+2018-11-21,Hardware Store,3.6219380483600547,debit,Home Improvement,Platinum Card,11
+2018-11-26,American Tavern,2.8213788864092133,debit,Alcohol & Bars,Silver Card,0
+2018-11-26,Internet Service Provider,4.317354771313298,debit,Internet,Checking,12
+2018-11-27,Movie Theater,2.833213344056216,debit,Movies & DVDs,Silver Card,14
+2018-11-27,American Tavern,3.3463891451671604,debit,Restaurants,Silver Card,16
+2018-11-30,Grocery Store,1.8357763546448294,debit,Groceries,Silver Card,9
+2018-12-01,Grocery Store,1.7298840655099674,debit,Groceries,Silver Card,9
+2018-12-01,Brunch Restaurant,2.0794415416798357,debit,Restaurants,Silver Card,16
+2018-12-01,Amazon,2.574899688314705,debit,Shopping,Platinum Card,17
+2018-12-03,BP,3.402196881995239,debit,Gas & Fuel,Silver Card,8
+2018-12-03,Grocery Store,4.998225274019575,debit,Groceries,Silver Card,9
+2018-12-04,Starbucks,1.0986122886681098,debit,Coffee Shops,Silver Card,2
+2018-12-04,Latin Restaurant,3.027715319407042,debit,Fast Food,Platinum Card,6
+2018-12-04,Netflix,2.464703942470481,debit,Movies & DVDs,Platinum Card,14
+2018-12-06,Grocery Store,3.062455905596899,debit,Groceries,Platinum Card,9
+2018-12-06,Grocery Store,2.601207105484161,debit,Groceries,Platinum Card,9
+2018-12-06,Gas Company,3.6888794541139363,debit,Utilities,Checking,19
+2018-12-07,Barbershop,3.4011973816621555,debit,Haircut,Platinum Card,10
+2018-12-08,Grocery Store,2.5368663887187113,debit,Groceries,Platinum Card,9
+2018-12-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2018-12-11,Brunch Restaurant,2.331172549845958,debit,Restaurants,Platinum Card,16
+2018-12-12,Phone Company,4.49468545281282,debit,Mobile Phone,Checking,13
+2018-12-13,Thai Restaurant,3.295836866004329,debit,Restaurants,Silver Card,16
+2018-12-14,Grocery Store,3.062923523094314,debit,Groceries,Silver Card,9
+2018-12-14,Hardware Store,2.8390784635086144,debit,Home Improvement,Silver Card,11
+2018-12-14,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2018-12-17,American Tavern,4.143134726391533,debit,Food & Dining,Silver Card,7
+2018-12-17,BP,2.996232148595642,debit,Gas & Fuel,Silver Card,8
+2018-12-17,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2018-12-18,Starbucks,1.0986122886681098,debit,Coffee Shops,Silver Card,2
+2018-12-18,Fancy Restaurant,4.034594557816327,debit,Restaurants,Silver Card,16
+2018-12-18,Amazon,3.911822985425479,debit,Shopping,Platinum Card,17
+2018-12-18,Amazon,3.7309806301325716,debit,Shopping,Platinum Card,17
+2018-12-18,Amazon,3.190476350346503,debit,Shopping,Platinum Card,17
+2018-12-19,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2018-12-19,Amazon,3.7614326467956447,debit,Shopping,Platinum Card,17
+2018-12-20,Shell,3.4137844971676268,debit,Gas & Fuel,Silver Card,8
+2018-12-22,New York Deli,3.062455905596899,debit,Fast Food,Platinum Card,6
+2018-12-22,Hardware Store,3.0973859272804907,debit,Home Improvement,Platinum Card,11
+2018-12-23,Hardware Store,3.332204510175204,debit,Home Improvement,Platinum Card,11
+2018-12-24,Hardware Store,3.648057459593681,debit,Home Improvement,Platinum Card,11
+2018-12-26,Chick-Fil-A,4.026600910135581,debit,Fast Food,Platinum Card,6
+2018-12-26,Shell,3.4803165861147547,debit,Gas & Fuel,Platinum Card,8
+2018-12-26,Shell,2.012232791986386,debit,Gas & Fuel,Platinum Card,8
+2018-12-26,Internet Service Provider,4.330601752681694,debit,Internet,Checking,12
+2018-12-26,Amazon,3.806440242853081,debit,Shopping,Platinum Card,17
+2018-12-28,Brewing Company,2.4849066497880004,debit,Alcohol & Bars,Silver Card,0
+2018-12-29,Brewing Company,2.6390573296152584,debit,Alcohol & Bars,Silver Card,0
+2018-12-29,Grocery Store,4.008060193625088,debit,Groceries,Silver Card,9
+2019-01-01,Amazon,2.5718485799218085,debit,Shopping,Platinum Card,17
+2019-01-03,Amazon,3.7400477406883357,debit,Shopping,Platinum Card,17
+2019-01-05,American Tavern,3.1565747986708215,debit,Restaurants,Platinum Card,16
+2019-01-08,Gas Company,3.8066624897703196,debit,Utilities,Checking,19
+2019-01-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2019-01-10,Grocery Store,4.073971772414164,debit,Groceries,Silver Card,9
+2019-01-10,Barbershop,3.4011973816621555,debit,Haircut,Silver Card,10
+2019-01-10,Phone Company,4.174387269895637,debit,Mobile Phone,Checking,13
+2019-01-14,Shell,3.3645333972905638,debit,Gas & Fuel,Silver Card,8
+2019-01-15,Grocery Store,1.801709800081223,debit,Groceries,Silver Card,9
+2019-01-16,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2019-01-16,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2019-01-18,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2019-01-24,Grocery Store,3.0473755067058295,debit,Groceries,Silver Card,9
+2019-01-24,Amazon,2.4595888418037104,debit,Shopping,Platinum Card,17
+2019-01-24,Amazon,1.43746264769429,debit,Shopping,Platinum Card,17
+2019-01-25,Internet Service Provider,4.31748811353631,debit,Internet,Checking,12
+2019-01-31,Shell,3.4442568711226023,debit,Gas & Fuel,Silver Card,8
+2019-02-01,Roadside Diner,2.248128907197987,debit,Restaurants,Silver Card,16
+2019-02-01,Amazon,2.5718485799218085,debit,Shopping,Platinum Card,17
+2019-02-04,Hardware Store,4.465563231601674,debit,Home Improvement,Silver Card,11
+2019-02-04,Netflix,2.464703942470481,debit,Television,Platinum Card,18
+2019-02-07,Gas Company,4.174387269895637,debit,Utilities,Checking,19
+2019-02-08,Starbucks,1.0986122886681098,debit,Coffee Shops,Platinum Card,2
+2019-02-08,Thai Restaurant,3.3130945001071823,debit,Restaurants,Platinum Card,16
+2019-02-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2019-02-11,Starbucks,1.0986122886681098,debit,Coffee Shops,Platinum Card,2
+2019-02-11,Credit Card Payment,4.897466595990617,debit,Credit Card Payment,Checking,3
+2019-02-11,BP,3.178470410233162,debit,Gas & Fuel,Platinum Card,8
+2019-02-12,Grocery Store,3.4190372997904865,debit,Groceries,Platinum Card,9
+2019-02-12,Phone Company,4.174387269895637,debit,Mobile Phone,Checking,13
+2019-02-13,Grocery Store,2.105352923464337,debit,Groceries,Platinum Card,9
+2019-02-15,Credit Card Payment,5.334986750905048,credit,Credit Card Payment,Platinum Card,3
+2019-02-15,Credit Card Payment,5.334986750905048,debit,Credit Card Payment,Checking,3
+2019-02-15,Grocery Store,1.5238800240724537,debit,Groceries,Platinum Card,9
+2019-02-15,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2019-02-16,Brewing Company,2.0794415416798357,debit,Alcohol & Bars,Platinum Card,0
+2019-02-16,American Tavern,3.488902962081261,debit,Restaurants,Platinum Card,16
+2019-02-16,Amazon,3.6230067099632284,debit,Shopping,Platinum Card,17
+2019-02-19,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2019-02-20,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2019-02-20,Barbershop,3.4011973816621555,debit,Haircut,Platinum Card,10
+2019-02-21,Grocery Store,3.849296175519841,debit,Groceries,Silver Card,9
+2019-02-25,BP,3.520460802488973,debit,Gas & Fuel,Silver Card,8
+2019-02-25,Internet Service Provider,4.31748811353631,debit,Internet,Checking,12
+2019-02-27,Roadside Diner,3.2492110246642736,debit,Restaurants,Silver Card,16
+2019-02-28,Grocery Store,3.4679210137050633,debit,Groceries,Silver Card,9
+2019-03-01,Amazon,2.5718485799218085,debit,Shopping,Platinum Card,17
+2019-03-04,Grocery Store,4.522223265167165,debit,Groceries,Silver Card,9
+2019-03-04,Netflix,2.464703942470481,debit,Television,Platinum Card,18
+2019-03-05,Fancy Restaurant,1.9459101490553132,debit,Restaurants,Silver Card,16
+2019-03-08,BP,3.528710701961115,debit,Gas & Fuel,Platinum Card,8
+2019-03-08,Amazon,3.3021134234382563,debit,Shopping,Platinum Card,17
+2019-03-08,Gas Company,3.8918202981106265,debit,Utilities,Checking,19
+2019-03-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2019-03-12,Phone Company,4.174387269895637,debit,Mobile Phone,Checking,13
+2019-03-12,Bakery Place,1.1052568313867783,debit,Restaurants,Platinum Card,16
+2019-03-14,Brunch Restaurant,2.0794415416798357,debit,Restaurants,Platinum Card,16
+2019-03-15,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2019-03-18,Grocery Store,2.7868613815264998,debit,Groceries,Platinum Card,9
+2019-03-19,Amazon,2.6275629501895237,debit,Shopping,Platinum Card,17
+2019-03-19,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2019-03-20,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2019-03-22,BP,3.624607564093796,debit,Gas & Fuel,Platinum Card,8
+2019-03-23,Starbucks,1.6486586255873816,debit,Coffee Shops,Platinum Card,2
+2019-03-25,Internet Service Provider,4.31748811353631,debit,Internet,Checking,12
+2019-03-26,Amazon,2.7750856024383683,debit,Shopping,Platinum Card,17
+2019-03-27,Brewing Company,3.9045954895993495,debit,Alcohol & Bars,Platinum Card,0
+2019-03-27,Grocery Store,1.4951487660319727,debit,Groceries,Platinum Card,9
+2019-03-30,Starbucks,2.552565298261815,debit,Coffee Shops,Platinum Card,2
+2019-04-01,Amazon,2.5718485799218085,debit,Shopping,Platinum Card,17
+2019-04-04,Grocery Store,1.7298840655099674,debit,Groceries,Platinum Card,9
+2019-04-04,Amazon,3.580737295494233,debit,Shopping,Platinum Card,17
+2019-04-04,Netflix,2.464703942470481,debit,Television,Platinum Card,18
+2019-04-06,Amazon,3.315639493300509,debit,Shopping,Platinum Card,17
+2019-04-08,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2019-04-09,Grocery Store,2.3702437414678603,debit,Groceries,Platinum Card,9
+2019-04-09,Barbershop,3.4011973816621555,debit,Haircut,Platinum Card,10
+2019-04-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2019-04-10,Phone Company,4.174387269895637,debit,Mobile Phone,Checking,13
+2019-04-12,Best Buy,3.8051057230820686,debit,Electronics & Software,Silver Card,4
+2019-04-12,Grocery Store,3.7218305542536223,debit,Groceries,Platinum Card,9
+2019-04-13,QuikTrip,3.6620219999440535,debit,Gas & Fuel,Platinum Card,8
+2019-04-13,Grocery Store,2.825536896557877,debit,Groceries,Platinum Card,9
+2019-04-13,Vietnamese Restaurant,3.027230940613362,debit,Restaurants,Platinum Card,16
+2019-04-15,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2019-04-16,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2019-04-18,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2019-04-19,Grocery Store,2.387844936944869,debit,Groceries,Platinum Card,9
+2019-04-22,Brewing Company,2.667228206581955,debit,Alcohol & Bars,Silver Card,0
+2019-04-22,Greek Restaurant,4.166975253257008,debit,Restaurants,Silver Card,16
+2019-04-23,Hardware Store,3.386422096080001,debit,Home Improvement,Silver Card,11
+2019-04-25,Internet Service Provider,4.31748811353631,debit,Internet,Checking,12
+2019-04-27,Brewing Company,3.6888794541139363,debit,Alcohol & Bars,Platinum Card,0
+2019-04-27,Credit Card Payment,5.594562669660306,credit,Credit Card Payment,Silver Card,3
+2019-04-27,American Tavern,2.6905648867611904,debit,Restaurants,Silver Card,16
+2019-04-29,Credit Card Payment,5.594562669660306,debit,Credit Card Payment,Checking,3
+2019-04-29,Grocery Store,1.7298840655099674,debit,Groceries,Platinum Card,9
+2019-04-30,BP,3.6656108271745818,debit,Gas & Fuel,Platinum Card,8
+2019-05-01,Amazon,2.5718485799218085,debit,Shopping,Platinum Card,17
+2019-05-04,Netflix,2.631888840136646,debit,Television,Platinum Card,18
+2019-05-06,Amazon,2.8296776892239084,debit,Shopping,Platinum Card,17
+2019-05-07,Amazon,3.652215469742345,debit,Shopping,Platinum Card,17
+2019-05-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2019-05-09,Target,1.1631508098056809,debit,Shopping,Platinum Card,17
+2019-05-09,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2019-05-10,Best Buy,3.062923523094314,debit,Electronics & Software,Silver Card,4
+2019-05-10,Phone Company,4.174387269895637,debit,Mobile Phone,Checking,13
+2019-05-13,QuikTrip,3.562181801067979,debit,Gas & Fuel,Silver Card,8
+2019-05-13,Fancy Restaurant,4.586904377181199,debit,Restaurants,Silver Card,16
+2019-05-13,Greek Restaurant,3.1402654242862895,debit,Restaurants,Silver Card,16
+2019-05-14,Grocery Store,0.7030975114131134,debit,Groceries,Silver Card,9
+2019-05-15,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2019-05-17,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2019-05-20,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2019-05-20,American Tavern,3.48216274048526,debit,Restaurants,Silver Card,16
+2019-05-24,Hardware Store,3.3307749173656096,debit,Home Improvement,Platinum Card,11
+2019-05-24,Brunch Restaurant,2.0794415416798357,debit,Restaurants,Platinum Card,16
+2019-05-25,QuikTrip,3.6044102974874863,debit,Gas & Fuel,Platinum Card,8
+2019-05-25,Hardware Store,3.433664571799657,debit,Home Improvement,Platinum Card,11
+2019-05-27,Mexican Restaurant,3.5360196074696004,debit,Restaurants,Platinum Card,16
+2019-05-30,Internet Service Provider,4.31748811353631,debit,Internet,Checking,12
+2019-05-30,American Tavern,3.550191934340043,debit,Restaurants,Platinum Card,16
+2019-06-01,Amazon,2.5718485799218085,debit,Shopping,Platinum Card,17
+2019-06-03,Starbucks,1.0116009116784799,debit,Coffee Shops,Platinum Card,2
+2019-06-03,Credit Card Payment,5.564328818089423,credit,Credit Card Payment,Platinum Card,3
+2019-06-04,Barbershop,3.4011973816621555,debit,Haircut,Platinum Card,10
+2019-06-04,Netflix,2.631888840136646,debit,Television,Platinum Card,18
+2019-06-05,Grocery Store,3.1354942159291497,debit,Groceries,Platinum Card,9
+2019-06-05,Mexican Restaurant,3.1458749319837103,debit,Restaurants,Platinum Card,16
+2019-06-06,Starbucks,1.3217558399823195,debit,Coffee Shops,Platinum Card,2
+2019-06-06,Grocery Store,1.7298840655099674,debit,Groceries,Platinum Card,9
+2019-06-07,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2019-06-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2019-06-12,Phone Company,4.174387269895637,debit,Mobile Phone,Checking,13
+2019-06-13,Credit Card Payment,5.028606179417492,credit,Credit Card Payment,Platinum Card,3
+2019-06-13,Credit Card Payment,5.028606179417492,debit,Credit Card Payment,Checking,3
+2019-06-14,Grocery Store,2.3693087250369538,debit,Groceries,Silver Card,9
+2019-06-15,BP,3.501344330267094,debit,Gas & Fuel,Silver Card,8
+2019-06-17,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2019-06-17,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2019-06-18,Brewing Company,2.70805020110221,debit,Alcohol & Bars,Silver Card,0
+2019-06-18,Shell,3.733613785454107,debit,Gas & Fuel,Silver Card,8
+2019-06-19,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2019-06-20,Credit Card Payment,4.611947170267115,credit,Credit Card Payment,Silver Card,3
+2019-06-21,Credit Card Payment,4.611947170267115,debit,Credit Card Payment,Checking,3
+2019-06-24,Brewing Company,2.70805020110221,debit,Alcohol & Bars,Silver Card,0
+2019-06-28,BP,3.4223063448723905,debit,Gas & Fuel,Silver Card,8
+2019-06-30,Internet Service Provider,4.31748811353631,debit,Internet,Checking,12
+2019-07-01,Starbucks,1.9459101490553132,debit,Coffee Shops,Silver Card,2
+2019-07-01,Grocery Store,4.599856091164322,debit,Groceries,Silver Card,9
+2019-07-01,Hawaiian Grill,3.217675104291682,debit,Restaurants,Silver Card,16
+2019-07-01,Thai Restaurant,3.1780538303479458,debit,Restaurants,Silver Card,16
+2019-07-01,Amazon,2.5718485799218085,debit,Shopping,Platinum Card,17
+2019-07-02,Hardware Store,5.437644431769136,debit,Home Improvement,Platinum Card,11
+2019-07-04,Netflix,2.631888840136646,debit,Television,Platinum Card,18
+2019-07-05,Brewing Company,2.9444389791664403,debit,Alcohol & Bars,Silver Card,0
+2019-07-06,Credit Card Payment,5.393991116616319,credit,Credit Card Payment,Silver Card,3
+2019-07-06,Grocery Store,4.532384416262439,debit,Groceries,Platinum Card,9
+2019-07-06,Greek Restaurant,3.1467351470905185,debit,Restaurants,Platinum Card,16
+2019-07-07,Hardware Store,4.636087288622813,debit,Home Improvement,Platinum Card,11
+2019-07-08,Credit Card Payment,5.393991116616319,debit,Credit Card Payment,Checking,3
+2019-07-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2019-07-10,Phone Company,4.174387269895637,debit,Mobile Phone,Checking,13
+2019-07-10,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2019-07-15,Grocery Store,4.467516020689296,debit,Groceries,Silver Card,9
+2019-07-16,Amazon,4.4996985530458575,debit,Shopping,Platinum Card,17
+2019-07-16,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2019-07-17,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2019-07-18,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2019-07-18,BP,3.595118074299462,debit,Gas & Fuel,Silver Card,8
+2019-07-18,Grocery Store,3.395514598526657,debit,Groceries,Platinum Card,9
+2019-07-18,Brunch Restaurant,2.1770218700187,debit,Restaurants,Platinum Card,16
+2019-07-19,Credit Card Payment,4.749443675144516,credit,Credit Card Payment,Platinum Card,3
+2019-07-19,Mexican Restaurant,3.332204510175204,debit,Restaurants,Platinum Card,16
+2019-07-22,Credit Card Payment,5.549387320503086,credit,Credit Card Payment,Silver Card,3
+2019-07-22,Thai Restaurant,3.283539338193923,debit,Restaurants,Silver Card,16
+2019-07-23,Credit Card Payment,5.549387320503086,debit,Credit Card Payment,Checking,3
+2019-07-24,Starbucks,0.9162907318741551,debit,Coffee Shops,Silver Card,2
+2019-07-27,Barbershop,3.4011973816621555,debit,Haircut,Silver Card,10
+2019-07-28,Hardware Store,3.7912103852113983,debit,Home Improvement,Platinum Card,11
+2019-07-29,Grocery Store,1.6770965609079151,debit,Groceries,Platinum Card,9
+2019-07-29,Fancy Restaurant,3.8048831298702424,debit,Restaurants,Silver Card,16
+2019-07-30,Grocery Store,2.758109400974947,debit,Groceries,Platinum Card,9
+2019-07-30,Internet Service Provider,4.31748811353631,debit,Internet,Checking,12
+2019-08-01,Amazon,2.5718485799218085,debit,Shopping,Platinum Card,17
+2019-08-03,BP,3.5934692693092782,debit,Gas & Fuel,Platinum Card,8
+2019-08-03,Grocery Store,1.3762440252663892,debit,Groceries,Platinum Card,9
+2019-08-03,American Tavern,3.1557230098629323,debit,Restaurants,Platinum Card,16
+2019-08-04,Netflix,2.631888840136646,debit,Television,Platinum Card,18
+2019-08-05,Brewing Company,2.8903717578961645,debit,Alcohol & Bars,Silver Card,0
+2019-08-05,Credit Card Payment,4.767714115173372,credit,Credit Card Payment,Silver Card,3
+2019-08-06,Credit Card Payment,4.767714115173372,debit,Credit Card Payment,Checking,3
+2019-08-06,Hardware Store,4.8283137373023015,debit,Home Improvement,Checking,11
+2019-08-08,Grocery Store,2.4612967841488667,debit,Groceries,Silver Card,9
+2019-08-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2019-08-09,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2019-08-12,Phone Company,4.174387269895637,debit,Mobile Phone,Checking,13
+2019-08-12,Thai Restaurant,3.283539338193923,debit,Restaurants,Silver Card,16
+2019-08-14,Starbucks,1.0116009116784799,debit,Coffee Shops,Platinum Card,2
+2019-08-15,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2019-08-16,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2019-08-17,Credit Card Payment,4.467860235023485,credit,Credit Card Payment,Platinum Card,3
+2019-08-17,Grocery Store,3.5010427166318716,debit,Groceries,Platinum Card,9
+2019-08-17,Barbershop,2.9444389791664403,debit,Haircut,Platinum Card,10
+2019-08-17,American Tavern,1.252762968495368,debit,Restaurants,Platinum Card,16
+2019-08-20,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2019-08-20,Starbucks,1.0116009116784799,debit,Coffee Shops,Platinum Card,2
+2019-08-21,Shell,3.5464514609816584,debit,Gas & Fuel,Platinum Card,8
+2019-08-23,Starbucks,1.0116009116784799,debit,Coffee Shops,Platinum Card,2
+2019-08-25,Brunch Restaurant,3.674526947889536,debit,Restaurants,Platinum Card,16
+2019-08-26,Hardware Store,4.200954297280359,debit,Home Improvement,Silver Card,11
+2019-08-29,Starbucks,1.0986122886681098,debit,Coffee Shops,Platinum Card,2
+2019-08-30,Starbucks,1.0116009116784799,debit,Coffee Shops,Platinum Card,2
+2019-08-30,Internet Service Provider,4.31748811353631,debit,Internet,Checking,12
+2019-08-31,Hardware Store,4.220095767527661,debit,Home Improvement,Platinum Card,11
+2019-08-31,BBQ Restaurant,3.7324177561284198,debit,Restaurants,Silver Card,16
+2019-09-01,Amazon,2.5718485799218085,debit,Shopping,Platinum Card,17
+2019-09-03,Fancy Restaurant,3.719408659148759,debit,Restaurants,Silver Card,16
+2019-09-04,Netflix,2.631888840136646,debit,Television,Platinum Card,18
+2019-09-05,Starbucks,1.3217558399823195,debit,Coffee Shops,Platinum Card,2
+2019-09-07,Brewing Company,2.554899021608035,debit,Alcohol & Bars,Platinum Card,0
+2019-09-08,Brewing Company,2.9601050959108397,debit,Alcohol & Bars,Platinum Card,0
+2019-09-09,Shell,3.3593331775634567,debit,Gas & Fuel,Platinum Card,8
+2019-09-09,Grocery Store,4.175770927584296,debit,Groceries,Silver Card,9
+2019-09-09,Hardware Store,3.2676659890376327,debit,Home Improvement,Silver Card,11
+2019-09-09,Spotify,2.3693087250369538,debit,Music,Platinum Card,15
+2019-09-09,Gas Company,3.4011973816621555,debit,Utilities,Checking,19
+2019-09-11,Phone Company,4.174387269895637,debit,Mobile Phone,Checking,13
+2019-09-13,Starbucks,1.0116009116784799,debit,Coffee Shops,Platinum Card,2
+2019-09-14,Grocery Store,3.8381611568296905,debit,Groceries,Platinum Card,9
+2019-09-15,Amazon,3.8640924716705958,debit,Shopping,Platinum Card,17
+2019-09-16,Credit Card Payment,4.506123032386857,debit,Credit Card Payment,Checking,3
+2019-09-16,Credit Card Payment,4.506123032386857,credit,Credit Card Payment,Silver Card,3
+2019-09-16,City Water Charges,3.5553480614894135,debit,Utilities,Checking,19
+2019-09-17,Credit Card Payment,5.226445354310242,credit,Credit Card Payment,Platinum Card,3
+2019-09-17,Power Company,4.0943445622221,debit,Utilities,Checking,19
+2019-09-18,State Farm,4.31748811353631,debit,Auto Insurance,Checking,1
+2019-09-19,Brewing Company,3.7089271494177143,debit,Alcohol & Bars,Platinum Card,0
+2019-09-19,Starbucks,1.0116009116784799,debit,Coffee Shops,Platinum Card,2
+2019-09-20,Credit Card Payment,2.2438960966453663,credit,Credit Card Payment,Silver Card,3
+2019-09-22,Seafood Restaurant,4.875960390769654,debit,Restaurants,Platinum Card,16
+2019-09-23,Credit Card Payment,2.2438960966453663,debit,Credit Card Payment,Checking,3
+2019-09-23,Grocery Store,3.321793358874887,debit,Groceries,Platinum Card,9
+2019-09-23,Amazon,3.2039652121324464,debit,Shopping,Platinum Card,17
+2019-09-28,BP,3.510350695558678,debit,Gas & Fuel,Platinum Card,8
+2019-09-28,Sheetz,1.451613827240533,debit,Gas & Fuel,Platinum Card,8
+2019-09-30,Starbucks,0.5596157879354227,debit,Coffee Shops,Platinum Card,2
+2019-09-30,Internet Service Provider,4.31748811353631,debit,Internet,Checking,12
