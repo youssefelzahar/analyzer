@@ -18,3 +18,8 @@ class Analysis:
 
     def category_spending(self):
         return self.df.groupby('Category')['Amount'].sum().sort_values(ascending=False)
+    def transaction_type_count(self):
+        return self.df['Transaction Type'].value_counts()
+    def transaction_type_category(self):
+        return self.df.groupby(['Transaction Type', 'Category'])['Amount'].sum().unstack(fill_value=0)
+    

@@ -48,6 +48,10 @@ if uploaded_file:
 
     st.subheader("💸 Spending per Category")
     st.bar_chart(analyzer.category_spending())
+    st.subheader("🔍 Transaction Type Counts")
+    st.bar_chart(analyzer.transaction_type_count())
+    st.subheader("📊 Transaction Type by Category")
+    st.dataframe(analyzer.transaction_type_category())
 
 else:
     st.info("Upload your cleaned CSV to begin analysis.")
