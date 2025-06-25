@@ -5,27 +5,7 @@ from pathlib import Path
 
 from src.analysis import Analysis
 
-# === Load Model and Tools ===
-model = joblib.load("models/model.pkl")
-vectorizer = joblib.load("models/model_vectorizer.pkl")
-#label_encoder = joblib.load("models/model_label_encoder.pkl")
 
-# === Streamlit Setup ===
-st.set_page_config(page_title="SmartFin", layout="wide")
-st.title("💰 SmartFin: AI-Powered Personal Finance Advisor")
-
-# === Section 1: Category Prediction ===
-st.header("🔮 Predict Transaction Category")
-desc_input = st.text_input("Enter a transaction description:")
-
-if st.button("Predict Category"):
-    if not desc_input.strip():
-        st.warning("Please enter a valid description.")
-    else:
-        X = vectorizer.transform([desc_input])
-        pred = model.predict(X)[0]
-        #label = label_encoder.inverse_transform([pred])[0]
-        #st.success(f"Predicted Category: **{label}**")
 
 # === Section 2: Data Analysis ===
 st.header("📊 Transaction Data Analysis")
