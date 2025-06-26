@@ -1,7 +1,3 @@
-Here’s a clean and professional **README.md** for your SmartFin project:
-
----
-
 # 🧠 SmartFin – AI-Powered Personal Finance Advisor
 
 SmartFin is an AI-powered personal finance assistant built with Python. It analyzes your transactions, forecasts future spending, categorizes expenses using NLP, and provides budget alerts through a chatbot — all via a clean Streamlit dashboard.
@@ -101,7 +97,3 @@ Used [Personal Finance Dataset](https://www.kaggle.com/datasets/bukolafatunde/pe
 ## 📬 Contact
 
 For questions or collaborations, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/youssef-elzahar/).
-
----
-
-Let me know if you'd like this turned into an actual `README.md` file!
