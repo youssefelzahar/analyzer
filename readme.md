@@ -100,7 +100,7 @@ Used [Personal Finance Dataset](https://www.kaggle.com/datasets/bukolafatunde/pe
 
 ## 📬 Contact
 
-For questions or collaborations, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+For questions or collaborations, feel free to reach out on [LinkedIn](https://www.linkedin.com/in/youssef-elzahar/).
 
 ---
 
