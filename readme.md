@@ -43,7 +43,7 @@ smartfin/
 1. **Clone the repo:**
 
 ```bash
-git clone https://github.com/yourusername/smartfin.git
+git clone https://github.com/youssefelzahar/smartfin.git
 cd smartfin
 ```
 
